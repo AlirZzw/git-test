@@ -1,2 +1,3 @@
 login
 new log
+bug
