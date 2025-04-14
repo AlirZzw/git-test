@@ -1,2 +1,1 @@
-bug
-bugs removing
+print("Removing bugs!")
